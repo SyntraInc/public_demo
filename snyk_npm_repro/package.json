@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-     "my_k8s": "npm:@kubernetes/client-node@0.21.0"
+    "my_vulnerable_request": "npm:request@2.88.2"
   },
   "author": "",
   "license": "ISC",
