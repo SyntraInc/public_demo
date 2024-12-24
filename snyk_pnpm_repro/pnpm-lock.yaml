@@ -1,0 +1,13 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      my_k8s:
+        specifier: npmL@kubernetes/client-node@0.21.1
+        version: link:npmL@kubernetes/client-node@0.21.1
